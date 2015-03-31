@@ -11,4 +11,5 @@
 
 ##### Monday
 - loops in JS
-- 
+  - using reduce in Euler
+- Euler solution in Ruby
