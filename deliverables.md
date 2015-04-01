@@ -1,6 +1,12 @@
 - What is a scripting language?
+  - a scripting language is embedded in the HTML and interpreted by another program. Scripting languages are meant to add functionality to webpages rather than just build them. Scripting languages make webpages user interactive.    
 - What is a variable?
+  - a variable is used to name or represent things in javascript. There are two types of variables, local and global. Global variables are called outside of functions and local are inside of a funcion. Variables can be named anything you want and then you can call them for the funcions they are associated with by that name you chose. 
 - What is a string? An array? A boolean?
+  - a string stores a series of text or characters ex: "Hello World", the string is inside the quotations
+  - an array is used to store multiple values in a single variable. You can access the array as a whole or call out specific elements inside the array
+  - a boolean represents one of two values, true or false OR off or on OR 0 or 1. These are used to find out if something is true or false
 - What are events?
+  - events are javascript animations that make things happen to specific things on the webpage, such as something changing when a button is clicked 
 - Link to codeacademy profile: 
 - Code for Project Euler solution in file `project_euler_1.js`.
