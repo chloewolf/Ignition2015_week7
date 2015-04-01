@@ -8,5 +8,5 @@
   - a boolean represents one of two values, true or false OR off or on OR 0 or 1. These are used to find out if something is true or false
 - What are events?
   - events are javascript animations that make things happen to specific things on the webpage, such as something changing when a button is clicked 
-- Link to codeacademy profile: 
+- Link to codeacademy profile: http://www.codecademy.com/chloewolf
 - Code for Project Euler solution in file `project_euler_1.js`.
